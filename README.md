@@ -2,10 +2,33 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-# To start this project follow these steps
-git clone this project
-cd to your directory where the project is cloned
-run "npm install"
-then run "npm start"
+## To Start This Project
+
+Follow these steps to get the project up and running:
+
+1. **Clone the repository:**
+    ```sh
+    git clone <repository-url>
+    ```
+
+2. **Navigate to the project directory:**
+    ```sh
+    cd <project-directory>
+    ```
+
+3. **Install the dependencies:**
+    ```sh
+    npm install
+    ```
+
+4. **Start the development server:**
+    ```sh
+    npm start
+    ```
+
+## Additional Information
+
+For more detailed instructions, refer to the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
 
 
